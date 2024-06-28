@@ -1,1 +1,1 @@
-# Building-a-Local-Database-to-Metabarcoding-Analysis
+# Building-a-Local-Database-for-Metabarcoding-Analysis
